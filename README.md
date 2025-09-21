@@ -1,2 +1,2 @@
-# PracticeJava
+# PracticeCode
 First Github impression.
